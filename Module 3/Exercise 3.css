@@ -1,0 +1,9 @@
+/*arial font with uppercase letters*/
+.p{
+  font-family: arial;
+  text-transform: uppercase;
+}
+/*image with black border*/
+.img{
+  border: 1px solid black;
+}

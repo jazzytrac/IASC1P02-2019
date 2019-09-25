@@ -1,0 +1,12 @@
+/*red background*/
+body{
+  background-color: red
+}
+/*green list with italics*/
+.ul{
+  color:green;
+  font-style: italic;
+}
+.li{
+  font-weight: 30px;
+}
