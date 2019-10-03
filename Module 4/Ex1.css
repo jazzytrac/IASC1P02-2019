@@ -1,0 +1,35 @@
+ .bluebox{
+   width: 1000px;
+   border: 4px solid blue;
+   padding: 50px 10% 20px 10%;
+   margin: 20px;
+   background-color: blue;
+ }
+
+ .blacksolid{
+   border: black 4px solid;
+   padding-top: 100px;
+   padding-right: 50px;
+   padding-bottom: 100px;
+   padding-left: 50px;
+ }
+
+ .greenDotted{
+   border: green 2px dashed;
+   padding-top: 20px;
+   padding-right: 800px;
+   padding-bottom: 20px;
+   padding-left: 20px;
+ }
+
+ .redtext{
+   color: red;
+ }
+
+ .whitedashed{
+   border: white 2px dashed;
+   padding-top: 20px;
+   padding-right: 0px;
+   padding-bottom: 30px;
+   padding-left: 20px;
+ }
