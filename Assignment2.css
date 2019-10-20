@@ -1,0 +1,39 @@
+body{
+  background-color: red;
+}
+.wrapper{
+  background-color: white;
+  margin:20px 10% 20px 10%;
+  width: 1000px;
+  height: 800px;
+  position: absolute relative fixed;
+}
+
+.header{
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.paragraph{
+  font-size: 10px;
+}
+
+.paragraph p{color: purple;}
+
+h3,p{color: blue}
+
+.list{
+  color: white;
+}
+
+.ordered{
+  font-family: serif;
+}
+
+.whitesolid{
+  border: white 2px solid;
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+}
