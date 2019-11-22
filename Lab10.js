@@ -1,9 +1,9 @@
-var elementone= document.getElementById("Numberone");
-var elementtwo= document.getElementById("Numbertwo");
+var one= document.getElementById("Numberone");
+var two= document.getElementById("Numbertwo");
 
-function sum() {
+function addition() {
 
-  var calculation = Number(elementone.value) + Number(elementtwo.value);
+  var calculation = Number(one.value) + Number(two.value);
   document.getElementById("Answer").innerHTML = calculation;
 
 }
