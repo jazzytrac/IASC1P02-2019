@@ -1,10 +1,10 @@
-var one= document.getElementById("Numberone");
-var two= document.getElementById("Numbertwo");
+var elementone= document.getElementById("Numberone");
+var elementtwo= document.getElementById("Numbertwo");
 
 function sum() {
 
-  var calculation = Number(one.value) + Number(two.value);
-  document.getElementById("Answer").innerHTML= calculation;
+  var calculation = Number(elementone.value) + Number(elementtwo.value);
+  document.getElementById("Answer").innerHTML = calculation;
 
 }
 
