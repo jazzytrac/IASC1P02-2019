@@ -1,0 +1,194 @@
+#wrapper{
+    width:1000px;
+    height:1000px:
+}
+
+#header{
+    width: 1000px;
+    height: 150px;
+    background-color: purple;
+    margin: 0 auto;
+    float:left;
+}
+
+#logo{
+  width: 250px;
+  height: 100px;
+  padding:5px;
+}
+
+#search{
+  width:40px;
+  height:40px;
+  padding-left: 450px;
+  margin-left: 360px;
+  margin-right: 100px;
+  margin-top: -100px;
+}
+
+#cart{
+  width: 40px;
+  height: 40px;
+  padding-left: 450px;
+  margin-left: 300px;
+  margin-right: 100px;
+  margin-top: -100px;
+  float:right;
+
+}
+
+#heart{
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-top: -100px;
+  float:right;
+}
+
+#one{
+  width:100px;
+  height:50px;
+  background-color: white;
+  margin-left: 260px;
+  margin-top: -20px;
+}
+
+#home{
+  text-align: center;
+  font-size: 25px;
+  font: arial;
+  border:solid;
+}
+
+#two{
+  width:100px;
+  height:50px;
+  background-color: white;
+  margin-left: 370px;
+  margin-top: -75px;
+}
+
+#about{
+  text-align: center;
+  font-size: 25px;
+  font: arial;
+  border:solid;
+}
+
+#three{
+  width:100px;
+  height:50px;
+  background-color: white;
+  margin-left: 480px;
+  margin-top: -75px;
+}
+
+#lotion{
+  text-align: center;
+  font-size: 25px;
+  font: arial;
+  border:solid;
+}
+
+#four{
+  width:100px;
+  height:50px;
+  background-color: white;
+  margin-left: 590px;
+  margin-top: -75px;
+}
+
+#lips{
+  text-align: center;
+  font-size: 25px;
+  font: arial;
+  border:solid;
+}
+
+#five{
+  width:100px;
+  height:50px;
+  background-color: white;
+  margin-left: 700px;
+  margin-top: -75px;
+
+}
+
+#shower{
+  text-align: center;
+  font-size: 25px;
+  font: arial;
+  border:solid;
+}
+
+#body{
+  width: 1000px;
+  height: 700px;
+  background-color: white;
+  margin: 0 auto;
+  float:left;
+}
+
+#lot{
+  width:320px;
+  height:500px;
+  border: dotted;
+}
+
+#bottle{
+  width:321px;
+  height:500px;
+  border: dotted;
+}
+
+#pump{
+  width:325px;
+  height:500px;
+  border: dotted;
+}
+
+#box{
+  width:100px;
+  height: 20px;
+  background-color: white;
+  border: solid;
+  float: left;
+  margin-top: 30px;
+  margin-left: 880px;
+}
+
+#next{
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#footer{
+  width: 1000px;
+  height: 150px;
+  background-color: purple;
+  margin: 0 auto;
+  float:left;
+}
+
+#email{
+  width:350px;
+  height:40px;
+  background-color: white;
+  margin-left: 20px;
+}
+
+#Line{
+  font-size: 30px;
+}
+
+#info{
+  width:200px;
+  height: 125px;
+  background-color: white;
+  margin-left: 790px;
+  margin-top: -70px;
+}
