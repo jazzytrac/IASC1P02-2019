@@ -1,6 +1,6 @@
 #wrapper{
     width:1000px;
-    height:1000px:
+    height:1150px:
 }
 
 #header{
@@ -140,11 +140,17 @@
 #content{
   width: 500px;
   height:600px;
-  background-color: grey;
+  background-color: white;
   float: left;
+  overflow: auto;
+  scrollbar-face-color:#CE7E00;
+  scrollbar-3dlight-color:#11111;
+  scrollbar-darkshadow-color: #6F4709;
+  br /scrollbar-track-color: #FFE8C1;
+  scrollbar-arrow-color: #6F4709;
 }
 
-#text{
+.text{
   font-size: 20px;
   font-style: arial;
 }
@@ -153,15 +159,14 @@
   width: 1000px;
   height: 150px;
   background-color: purple;
-  margin-left: -500px;
-  padding:5px;
+  margin-top: 600px;
+  padding:15px;
 }
 
 #email{
   width:350px;
   height:40px;
   background-color: white;
-
 }
 
 #Line{
@@ -173,5 +178,5 @@
   height: 125px;
   background-color: white;
   margin-left: 790px;
-  margin-top: -70px;
+  margin-top: -90px;
 }
