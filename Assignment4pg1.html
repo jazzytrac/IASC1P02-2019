@@ -17,7 +17,7 @@
 
 		<div id="header">
 			<img id="logo" alt="logo" src="/Users/jasminetracey/Desktop/Screen Shot 2019-11-28 at 10.55.22 AM.png"/>
-			<img id="cart" alt="cart" src="https://image.shutterstock.com/image-vector/shopping-bag-260nw-191552228.jpg"/> 
+			<img id="cart" alt="cart" src="https://image.shutterstock.com/image-vector/shopping-bag-260nw-191552228.jpg"/>
 			<img id="heart" alt="heart" src="https://image.shutterstock.com/image-vector/heart-drawing-by-hand-illustration-260nw-1024768624.jpg"/>
 			<div id="currency">
 				<p id="cad"> CAD$ </p>
@@ -66,8 +66,17 @@
 					<p> Customer Information </p>
 					<p>		Shipping  </p>
 					<p>		FAQ </p>
-
 				</div>
+				<div class="chat-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h1>Chat</h1>
+    <label for="msg"><b>Message</b></label>
+    <textarea placeholder="Type message.." name="msg" required></textarea>
+
+    <button type="submit" class="btn">Send</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
 
 
 		</div>

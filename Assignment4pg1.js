@@ -1,6 +1,7 @@
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
 
-//A Function to printout Hurrah! when called
-
-function pushMe(){
-	document.getElementById("output").innerHTML="Hurray!";
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
 }
